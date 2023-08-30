@@ -1,0 +1,5 @@
+{
+    "user": [
+        { "id": 1, "nome": "json-server", "email": "lucas92mc@gmail.com", "age": 20, "telefone": "1999433-0639"}
+      ]
+}
